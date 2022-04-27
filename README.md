@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Chanchal Verma!!</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack | Problem Solver | Content Writer</h3>
+<h3 align="center">Full Stack Web Developer || MERN Stack || Problem Solver || Content Writer</h3>
 
 <p align="left"> <a href="https://twitter.com/@chanchal_s7" target="blank"><img src="https://img.shields.io/twitter/follow/@chanchal_s7?logo=twitter&style=for-the-badge" alt="@chanchal_s7" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📝 I regularly write articles on [https://medium.com/@chsverma7](https://medium.com/@chsverma7)
+- 📝 I regularly write articles on [Medium](https://medium.com/@chsverma7)
 
-- 💬 Ask me about **Developing web products,solving problem**
+- 💬 Ask me about **Desgin and develop web products,solving problem**
 
 - 📫 How to reach me **chsverma7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_by6y8bMDGjFbtJlVJEAuMtSZAqgI3aT/view?usp=sharing](https://drive.google.com/file/d/1_by6y8bMDGjFbtJlVJEAuMtSZAqgI3aT/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_by6y8bMDGjFbtJlVJEAuMtSZAqgI3aT/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/chanchals7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chanchals7" height="30" width="40" /></a>
 <a href="https://twitter.com/@chanchal_s7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chanchal_s7" height="30" width="40" /></a>
