@@ -33,7 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanchals7&show_icons=true&locale=en" alt="chanchals7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanchals7&" alt="chanchals7" /></p>
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+Here are some 🦜 parrots:
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
