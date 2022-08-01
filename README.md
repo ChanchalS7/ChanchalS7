@@ -16,7 +16,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<a href="https://app.daily.dev/ChanchalS7"><img src="https://api.daily.dev/devcards/1da3be048a654cb4bcaeac08740dfacd.png?r=kkq" width="400" alt="Chanchal Verma's Dev Card"/></a>
+
 <h3 align="left">You can connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/chanchals7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chanchals7" height="30" width="40" /></a>
@@ -33,6 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanchals7&show_icons=true&locale=en" alt="chanchals7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanchals7&" alt="chanchals7" /></p>
+<a href="https://app.daily.dev/ChanchalS7"><img src="https://api.daily.dev/devcards/1da3be048a654cb4bcaeac08740dfacd.png?r=kkq" width="400" alt="Chanchal Verma's Dev Card"/></a>
 Here are some 🦜 parrots:
 
 <div>
