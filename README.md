@@ -33,7 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanchals7&show_icons=true&locale=en" alt="chanchals7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanchals7&" alt="chanchals7" /></p>
-<a href="https://app.daily.dev/ChanchalS7"><img src="https://api.daily.dev/devcards/1da3be048a654cb4bcaeac08740dfacd.png?r=kkq" width="400" alt="Chanchal Verma's Dev Card"/></a>
+<a href="https://app.daily.dev/ChanchalS7"><img align="right" src="https://api.daily.dev/devcards/1da3be048a654cb4bcaeac08740dfacd.png?r=kkq" width="300" alt="Chanchal Verma's Dev Card"/></a>
 Here are some 🦜 parrots:
 
 <div>
