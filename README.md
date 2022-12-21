@@ -20,9 +20,9 @@
 
 - 💬 Ask me about **Desgin and develop web products,Problem Solving, Making Life easier through tech**
 
-- 📫 How to reach me **chsverma7@gmail.com**
+<!-- - 📫 How to reach me **chsverma7@gmail.com** -->
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_by6y8bMDGjFbtJlVJEAuMtSZAqgI3aT/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y0IB19TynpqEMfw7TqwepReqVc8QSU85/view?usp=share_link)
 
 
 <!-- <h3 align="left">You can connect with me:</h3> -->
