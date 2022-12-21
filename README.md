@@ -131,4 +131,6 @@
 <a href="https://linkedin.com/in/chanchals7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanchals7" height="30" width="40" /></a>
 <a href="https://hashnode.com/@voyin7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@voyin7" height="30" width="40" /></a>
 </p>
+                                                                                                                                        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="chanchals7" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/chanchals7?trk=profile-badge">Chanchal Verma</a></div>
+              
 </div>
