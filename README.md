@@ -22,7 +22,7 @@
 
 <!-- - 📫 How to reach me **chsverma7@gmail.com** -->
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y0IB19TynpqEMfw7TqwepReqVc8QSU85/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FDJNW3vaEXTRxBJU0gLgmN2MK16v-dU8/view?usp=share_link)
 
 
 <!-- <h3 align="left">You can connect with me:</h3> -->
