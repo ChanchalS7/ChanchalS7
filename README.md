@@ -39,7 +39,7 @@
     <a href="https://twitter.com/Chanchal_S7">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Chanchal_S7" />
     </a>
-    <a href="https://chanchals7.github.io/" target="_blank">
+    <a href="https://chanchals7.github.io/" target="_blank" "_blank">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://chanchal.vercel.app/" />
     </a>
     <a title="chsverma7@gmail.com" href="mailto:chsverma7@gmail.com">
