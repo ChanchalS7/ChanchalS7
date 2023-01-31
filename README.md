@@ -15,8 +15,9 @@
 </p>
 <br>
 - 🌱 I’m currently working as an <b>IA at Masai School</b>
+-  Currently I am looking for new role as a Web Developer and open to learn any tech Stack.
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@chsverma7)
+- 📝 I am currently learning TypeScript and Golang..
 
 - 💬 Ask me about **Desgin and develop web products,Problem Solving, Making Life easier through tech**
 
