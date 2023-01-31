@@ -14,11 +14,11 @@
     </a>
 </p>
 <br>
-- 🌱 I’m currently working as an <b>IA at Masai School</b>
+- 🌱 I’m currently working as an <b>IA at Masai School.</b>
 
--  <b>Currently I am looking for new role as a Web Developer and open to learn any tech Stack</b>.
+-  <b>Currently I am looking for new role as a Web Developer and open to learn any tech Stack.</b>
 
-- 📝 I am currently learning <b>**TypeScript and Golang**</b>..
+- 📝 I am currently learning <b>**TypeScript and Golang**..</b>
 
 - 💬 Ask me about **Desgin and develop web products,Problem Solving, Making Life easier through tech**
 
