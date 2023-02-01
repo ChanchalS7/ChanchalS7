@@ -24,7 +24,7 @@
 
 <!-- - 📫 How to reach me **chsverma7@gmail.com** -->
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12ht8IyWpAibo-mxtsWF2jqeg9Xrawo81/view?usp=share_link)
+- 📄 Know about my experiences <p target='_blank'>[Resume](https://drive.google.com/file/d/12ht8IyWpAibo-mxtsWF2jqeg9Xrawo81/view?usp=share_link)</p>
 
 
 <!-- <h3 align="left">You can connect with me:</h3> -->
