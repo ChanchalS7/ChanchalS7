@@ -20,7 +20,7 @@
 
 - 📝 I am currently learning <b>**TypeScript and Golang**..</b>
 
-- 💬 Ask me about **Desgin and develop web products,Problem Solving, Making Life easier through tech**
+- 💬 Ask me about **Desgin and develop web products,problem solving, making Life easier through tech**
 
 <!-- - 📫 How to reach me **chsverma7@gmail.com** -->
 
