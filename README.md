@@ -14,7 +14,7 @@
     </a>
 </p>
 <br>
-- 🌱 I’m currently working as an <b>IA at Masai School.</b>
+- 🌱 I worked as an <b>IA at Masai School.</b>
 
 -  <b>Currently I am looking for new role as a Web Developer and open to learn any tech Stack.</b>
 
