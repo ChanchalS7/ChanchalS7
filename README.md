@@ -18,7 +18,7 @@
 
 -  <b>Currently I am looking for new role as a Web Developer and open to learn any tech Stack.</b>
 
-- 📝 I am currently learning <b>**TypeScript and Golang**..</b>
+- 📝 I am currently learning <b>**Next.js**</b>
 
 - 💬 Ask me about **Desgin and develop web products,problem solving, making life easier through tech**
 
