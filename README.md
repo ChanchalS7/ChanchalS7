@@ -16,7 +16,7 @@
 <br>
 - 🌱 I worked as an <b>IA at Masai School.</b>
 
--  <b>Currently I am looking for new role as a Web Developer and open to learn any tech Stack.</b>
+-  <b>Currently I am working as a Full Stack Web Developer and open to learn any new tech Stack.</b>
 
 - 📝 I am currently learning <b>**Next.js**</b>
 
