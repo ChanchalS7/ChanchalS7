@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Chanchal Verma!!</h1>
-<h3 align="center">Full Stack Web Developer || MERN Stack || Problem Solver || Content Creator</h3>
+<h1 align="center">Hi, I'm Chanchal Verma! </h1>
+<h3 align="center">Full Stack Web Developer || MERN Stack || Problem Solver || Content Creator </h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/@chanchal_s7" target="blank"><img src="https://img.shields.io/twitter/follow/@chanchal_s7?logo=twitter&style=for-the-badge" alt="@chanchal_s7" /></a> </p> -->
 
@@ -18,7 +18,7 @@
 
 -  <b>Currently I am working as a Full Stack Web Developer and open to learn any new tech Stack.</b>
 
-- 📝 I am currently learning <b>**Next.js**</b>
+- 📝 I am currently learning <b>**Vue.js**</b>
 
 - 💬 Ask me about **Desgin and develop web products,problem solving, making life easier through tech**
 
