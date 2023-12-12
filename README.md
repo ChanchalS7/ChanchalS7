@@ -20,7 +20,7 @@
 
 - 📝 I am currently learning <b>**Golang, DevOps, Cloud**</b>
 
-- 💬 Ask me about **Desgin and develop web products,problem solving, making life easier through tech**
+- 💬 Ask me about **Desgining and developing web products, automation, devops, problem solving, making life easier through tech**
 
 <!-- - 📫 How to reach me **chanchal9.dev@gmail.com** -->
 
