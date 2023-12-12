@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chanchal Verma! </h1>
-<h3 align="center">Full Stack Web Developer || MERN Stack || Problem Solver || Content Creator </h3>
+<h3 align="center">Full Stack Web Developer ||DevOps || Mentor || Content Creator </h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/@chanchal_s7" target="blank"><img src="https://img.shields.io/twitter/follow/@chanchal_s7?logo=twitter&style=for-the-badge" alt="@chanchal_s7" /></a> </p> -->
 
@@ -14,15 +14,15 @@
     </a>
 </p>
 <br>
-- 🌱 I worked as an <b>IA at Masai School.</b>
+- 🌱 I worked as an <b> Instructor(Mentor), Freelance developer</b>
 
--  <b>Currently I am working as a Full Stack Web Developer and open to learn any new tech Stack.</b>
+-  <b>Currently I am working as a Full Stack Developer wtith some other tech stack.</b>
 
-- 📝 I am currently learning <b>**Vue.js**</b>
+- 📝 I am currently learning <b>**Golang, DevOps, Cloud**</b>
 
 - 💬 Ask me about **Desgin and develop web products,problem solving, making life easier through tech**
 
-<!-- - 📫 How to reach me **chsverma7@gmail.com** -->
+<!-- - 📫 How to reach me **chanchal9.dev@gmail.com** -->
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1RM_yqlyE9hlwAqff63uGLGpOixdxKj5R?usp=share_link)
 
