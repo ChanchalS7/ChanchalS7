@@ -14,7 +14,7 @@
     </a>
 </p>
 <br>
-- 🌱 I worked as an <b> Instructor(Mentor), Freelance developer</b>
+- 🌱 I worked as an <b> Instructor(Mentor), Freelance contract developer</b>
 
 -  <b>Currently I am working as a Full Stack Developer wtith some other tech stack.</b>
 
