@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/@chanchal_s7" target="blank"><img src="https://img.shields.io/twitter/follow/@chanchal_s7?logo=twitter&style=for-the-badge" alt="@chanchal_s7" /></a> </p> -->
 
-<!----------------------------------- Profile View Section ------------------------------------>
+<!----------------------------------- Profile View Section ------------------------------------->
 
 <p align="left">
     <a href="https://github.com/ChanchalS7">
