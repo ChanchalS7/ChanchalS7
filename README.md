@@ -14,19 +14,16 @@
     </a>
 </p>
 <br>
-- 🌱 I worked as an <b> Instructor(Mentor), Freelance contract developer</b>
+- 🌱 I working as a <b> Software Egnineer, Instructor(Mentor), DevOps Developer, Golang developer</b>
 
--  <b>Currently I am working as a Full Stack Developer wtith some other tech stack.</b>
 
-- 📝 I am currently learning <b>**Golang, DevOps, Cloud**</b>
+- 📝 I am currently learning <b>**Software Engineering**</b>
 
 - 💬 Ask me about **Desgining and developing web products, automation, devops, problem solving, making life easier through tech**
 
 <!-- - 📫 How to reach me **chanchal9.dev@gmail.com** -->
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1RM_yqlyE9hlwAqff63uGLGpOixdxKj5R?usp=share_link)
-
-
+- 📄 Know about my experiences
 <!-- <h3 align="left">You can connect with me:</h3> -->
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
@@ -44,7 +41,7 @@
     <a href="https://chanchals7.github.io/" target="_blank" "_blank">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://chanchal.vercel.app/" />
     </a>
-    <a title="chsverma7@gmail.com" href="mailto:chsverma7@gmail.com">
+    <a title="chanchal9.dev@gmail.com" href="mailto:chanchal9.dev@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chsverma7@gmail.com" />
     </a>
 </p>
