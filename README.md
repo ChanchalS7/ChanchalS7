@@ -23,8 +23,6 @@
 
 <!-- - 📫 How to reach me **chanchal9.dev@gmail.com** -->
 
-- 📄 Know about my experiences
-<!-- <h3 align="left">You can connect with me:</h3> -->
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
