@@ -14,7 +14,7 @@
     </a>
 </p>
 <br>
-- 🌱 I working as a <b> Software Egnineer, Instructor(Mentor), DevOps Developer, Golang developer</b>
+- 🌱 I working as a <b> Software Egnineer</b>
 
 
 - 📝 I am currently learning <b>**Software Engineering**</b>
