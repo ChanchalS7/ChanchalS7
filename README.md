@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Chanchal Verma!! </h1>
-<h3 align="center">Full Stack Web Developer ||DevOps || Mentor || Content Creator </h3>
+<h3 align="center">Golang Developer||Software Engineer ||DevOps || Mentor || Content Creator </h3>
 
-<!-- <p align="left"> <a href="https://twitter.com/@chanchal_s7" target="blank"><img src="https://img.shields.io/twitter/follow/@chanchal_s7?logo=twitter&style=for-the-badge" alt="@chanchal_s7" /></a> </p> -->
 
 <!----------------------------------- Profile View Section ------------------------------------->
 
@@ -14,10 +13,10 @@
     </a>
 </p>
 <br>
-- 🌱 I working as a <b> Software Egnineer</b>
+- 🌱 I working as a <b> Technical Lead</b>
 
 
-- 📝 I am currently learning <b>**Software Engineering**</b>
+- 📝 I am currently learning <b>**Architecting solutions of problems**</b>
 
 - 💬 Ask me about **Desgining and developing web products, automation, devops, problem solving, making life easier through tech**
 
@@ -34,9 +33,6 @@
     <a href="https://twitter.com/Chanchal_S7">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Chanchal_S7" />
     </a>
-    <a href="https://chanchals7.github.io/" target="_blank" "_blank">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://chanchal.vercel.app/" />
-    </a>
     <a title="chanchal9.dev@gmail.com" href="mailto:chanchal9.dev@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chsverma7@gmail.com" />
     </a>
@@ -46,10 +42,6 @@
 <h2><i>Tech Stack</i></h2>
 
 <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
@@ -60,9 +52,9 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
-    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+
 </p>
 <br>
 <!----------------------------------- GitHub Stats Section ------------------------------------>
