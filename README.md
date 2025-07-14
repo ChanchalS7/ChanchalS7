@@ -111,8 +111,21 @@
 <!--     <br> -->
     <p align="left"> -->
     <h2><b>Follow me to read my aritcles/blogs : </b></h2>
-<a href="https://dev.to/chanchals7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chanchals7" height="30" width="40" /></a>
-<a href="https://x.com/@chanchal_S7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="@chanchal_S7" height="30" width="40" /></a>
+<!-- Dev.to -->
+<a href="https://dev.to/chanchals7" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" style="margin-right:10px;" />
+</a>
+
+<!-- X (Twitter) -->
+<a href="https://x.com/chanchal_S7" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" style="margin-right:10px;" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/chanchals7" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right:10px;" />
+</a>
+
 <a href="https://linkedin.com/in/chanchals7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanchals7" height="30" width="40" /></a>
 </p>
                                                                                                                                         <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="chanchals7" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/chanchals7?trk=profile-badge">Chanchal Verma</a></div>
